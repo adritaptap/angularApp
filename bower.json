@@ -1,6 +1,6 @@
 {
   "name": "angularApp",
-  "homepage": "https://gthub.com",
+  "homepage": "https://github.com/adritaptap/angularApp",
   "authors": [
     "Adrien Juhem <adrien.juhem@gmail.com>"
   ],
@@ -18,6 +18,6 @@
     "tests"
   ],
   "dependencies": {
-    "ngCordova": "^0.1.27-alpha",
+    "ngCordova": "^0.1.27-alpha"
   }
 }

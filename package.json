@@ -9,7 +9,7 @@
     "angular-sanitize": "^1.6.4",
     "angular-ui-router": "^1.0.3",
     "bootstrap": "^3.3.7",
-    "jquery": "^3.2.1",
+    "jquery": "^3.2.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -26,7 +26,7 @@
   "author": "adritaptap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com"
+    "url": "https://github.com/adritaptap/angularApp"
   },
-  "homepage": "https://github.com"
+  "homepage": "https://github.com/adritaptap/angularApp"
 }
