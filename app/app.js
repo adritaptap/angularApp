@@ -3,7 +3,7 @@ angular.module('starter', [ 'starter.controllers', 'ui.router', 'ngSanitize', 'n
 
 .config(function($stateProvider, $urlRouterProvider, $httpProvider) {
 
-    $stateProvider
+  $stateProvider
 
   // Each tab has its own nav history stack:
   .state('home', {
