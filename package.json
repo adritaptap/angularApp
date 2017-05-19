@@ -1,0 +1,32 @@
+{
+  "name": "angularApp",
+  "version": "1.0.0",
+  "description": "Angular@1.6.4 project",
+  "main": "index.html",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-resource": "^1.6.4",
+    "angular-sanitize": "^1.6.4",
+    "angular-ui-router": "^1.0.3",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campus-digital-grenoble/A_Bandit_Rerise_Onion.git"
+  },
+  "keywords": [
+    "Wordpress",
+    "Angular@1.6.4"
+  ],
+  "author": "adritaptap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com"
+  },
+  "homepage": "https://github.com"
+}
